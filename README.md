@@ -7,6 +7,6 @@ A simple python XAMPP panel script.
 XAMPP must be installed in your system.
 
 # USAGE
-* git clone https://github.com/semiiixyz/xampp.git
+* git clone https://github.com/xfr0g/xampp.git
 * cd xampp
 * python3 XAMPP.py
